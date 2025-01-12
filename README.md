@@ -28,7 +28,7 @@ Leveraging the power of UE5, Nirvana 2.0 delivers stunning visuals, realistic ph
 
 Clone the repository:
 
-git clone https://github.com/AlinStoican/Nirvana-2.0-Chamber-
+git clone https://github.com/AlinStoican/Nirvana-2.0-
 
 Open the project in Unreal Engine 5.
 
@@ -52,33 +52,10 @@ Configs/: Game settings and configurations.
 
 For more details, check the Source folder.
 
-🤝 Contributing
-
-We welcome contributions! Feel free to submit pull requests or open issues to help improve Nirvana 2.0. Whether you're a programmer, artist, or level designer, there's a place for you here.
-
-🛠️ Development Roadmap
-
-Upcoming Features:
-
-New game modes.
-
-Enhanced AI for Sentient Shadows.
-
-Expanded weapon selection.
-
-Cross-platform multiplayer.
 
 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-📞 Contact
-
-For questions or feedback, reach out to us:
-
-GitHub Issues: Submit here
-
-Email: support@nirvana2.com
 
 🖼️ Visual Preview
 
